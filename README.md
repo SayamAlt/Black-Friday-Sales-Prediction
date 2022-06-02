@@ -1,5 +1,11 @@
 # Black-Friday-Sales-Prediction
 
+<p>Successfully established a machine learning model which can accurately predict the net Black Friday sales for a specific customer, based on various characteristics pertaining to that particular customer.</p>
+
+![Black Friday Sales Prediction](https://i.ytimg.com/vi/ID8Lz5vR3qE/mqdefault.jpg)
+![Black Friday Sales Prediction](https://camo.githubusercontent.com/1fada135d320c87bb1a851c584f697266a00f4279d2f5e977790c4d75d5aa780/68747470733a2f2f736561726368656e67696e656c616e642e636f6d2f6669677a2f77702d636f6e74656e742f73656c6f6164732f323031342f31322f626c61636b2d667269646179312d73732d313932302e6a7067)
+![Black Friday Sales Prediction](https://businessyield.com/wp-content/uploads/2020/10/images-17.jpeg)
+
 ## Deployed Web Application
 
 Link: https://black-friday-sales-forecast.herokuapp.com/
